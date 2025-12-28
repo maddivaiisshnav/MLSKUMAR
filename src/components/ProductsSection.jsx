@@ -15,8 +15,8 @@ const ProductsSection = () => {
     },
     {
       name: "Armour Quality",
-      heat: "Very High",
-      color: "Bright Red",
+      heat: "Light Heat",
+      color: "Red",
       url: "/Armour.jpeg",
       desc: "Known for its rich red color and intense heat profile."
     },
@@ -31,7 +31,7 @@ const ProductsSection = () => {
     {
       name: "341 Variety",
       heat: "Medium",
-      color: "Red",
+      color: "Bright Red",
       url: "/341 Variety.jpeg",
       specification: "Best Color",
       desc: "Balanced heat and excellent color retention for various culinary uses."
